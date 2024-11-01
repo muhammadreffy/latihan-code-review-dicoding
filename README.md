@@ -1,2 +1,2 @@
 # latihan-code-review-dicoding
-Belajar code review di dicoding
+Belajar code review di Dicoding
